@@ -1,5 +1,5 @@
 import { LitElement, css, html } from "./vendor/lit-core-3.3.3.min.js";
-import "https://cdnjs.cloudflare.com/ajax/libs/apexcharts/5.3.3/apexcharts.min.js?module";
+import "./vendor/apexcharts-5.3.3.min.js";
 // Set program constants and definitions
 const PROG_NAME = "edata-card";
 const VALID_CHART_TEMPLATES = [

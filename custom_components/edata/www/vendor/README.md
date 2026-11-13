@@ -7,3 +7,4 @@ name: a new version gets a new URL and is never served stale from the cache.
 | File | Source | License |
 | --- | --- | --- |
 | `lit-core-3.3.3.min.js` | https://cdn.jsdelivr.net/gh/lit/dist@3.3.3/core/lit-core.min.js | BSD-3-Clause (Google LLC) |
+| `apexcharts-5.3.3.min.js` | https://registry.npmjs.org/apexcharts/-/apexcharts-5.3.3.tgz (`dist/apexcharts.min.js`, sha256 735d9d03…f6785) | MIT (ApexCharts) |
